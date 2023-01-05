@@ -1,0 +1,14 @@
+mango 50
+apple 100
+banana 20
+pineapple 120
+
+apple 100
+banana 20
+mango 50
+pineapple 120
+
+banana 20
+mango 50
+apple 100
+pineapple 120

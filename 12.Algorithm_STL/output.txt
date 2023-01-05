@@ -1,0 +1,6 @@
+The age is :999
+The name is : Mohit Pathak
+9 8 6 5 4 3 2 1 
+1 9 8 6 5 4 3 2 
+2 1 3 4 5 6 8 9 
+9 8 6 5 4 3 1 2 

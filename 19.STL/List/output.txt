@@ -1,0 +1,3 @@
+kiwi -> orange -> peach -> carrot -> lemon -> watermelon -> 
+kiwi -> orange -> peach -> lemon -> watermelon -> 
+kiwi -> papaya -> orange -> peach -> lemon -> watermelon -> 

@@ -1,2 +1,2 @@
 # C-CPP
-Programs of C and C++ made while practive DSA
+Programs of C and C++ that I made while practicing DSA
